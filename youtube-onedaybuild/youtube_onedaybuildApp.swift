@@ -12,6 +12,8 @@ struct youtube_onedaybuildApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            
+            var i = 0
         }
     }
 }
